@@ -1,8 +1,4 @@
-huggingface_hub
+streamlit
+requests
 python-dotenv
 huggingface_hub
-requests
-time
-dotenv
-os
-streamlit
